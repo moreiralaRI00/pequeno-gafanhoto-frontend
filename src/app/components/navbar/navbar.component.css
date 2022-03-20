@@ -1,0 +1,25 @@
+.nav-titulo{
+    color: #fff;
+    font-size: 1.2em;
+    margin: 0 20px 0 5px;
+}
+
+.nav-titulo:hover{
+    color: rgb(211, 208, 208);
+    cursor: pointer;
+}
+
+#sair{
+    position: relative;
+    left: 60%;
+}
+
+#sair a{
+    text-decoration: none;
+    color: #fff;
+}
+
+#sair a:hover{
+    text-decoration: underline;
+    color: #dc3545;
+}
